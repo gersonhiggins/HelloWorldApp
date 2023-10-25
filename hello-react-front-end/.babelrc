@@ -1,5 +1,4 @@
 {
-    "requireConfigFile": false,
     "presets": [
         "@babel/preset-react"
     ],
